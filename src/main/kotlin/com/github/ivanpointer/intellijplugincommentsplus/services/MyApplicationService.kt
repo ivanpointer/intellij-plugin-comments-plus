@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ivanpointer.intellijplugincommentsplus.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ivanpointer.intellijplugincommentsplus.MyBundle
 
 class MyApplicationService {
 
